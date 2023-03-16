@@ -1,4 +1,13 @@
 {
+  "users": [
+    {
+      "username": "yashbank",
+      "email": "yashbank2002@gmail.com",
+      "password": "00000000",
+      "bookings": []
+    }
+  ],
+
   "hotels": [
     {
       "category": "Family",
